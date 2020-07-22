@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Dhaval 👋
+---
+
+#### I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source.
+
+- 🔭 I’m currently working on Android and Flutter Apps
+- 🌱 Learning more about and studying: **Open Source, Spring Boot, CS Algorithms**
+- 💬 Ask me about: **Android**, **Kotlin**, **Flutter**, **Java**
+- 📫 Reach me asap: <a href="https://twitter.com/Dhaval2404/">Twitter</a> or dhavalpatel244@gmail.com
 
 <!--
 **Dhaval2404/Dhaval2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
